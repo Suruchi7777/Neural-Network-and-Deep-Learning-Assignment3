@@ -1,4 +1,11 @@
-# CNN Programming Assignment
+# Neural Networks and Deep Learning Assignment 3
+
+## Student Information
+- Student Name: [Suruchi Maharjan]
+- Student ID: [700797006]
+- Course: Neural Networks and Deep Learning
+- Professor: [Tsai, I Hua]
+- University: University of Central Missouri
 
 ## Overview
 
